@@ -38,4 +38,3 @@ There is also a [codefresh.yml](codefresh.yml) for easy usage with the [Codefres
 For the direct deployment without storing the helm chart first see [codefresh-do-not-store.yml](codefresh-do-not-store.yml)
 
 More details can be found in [Codefresh documentation](https://codefresh.io/docs/docs/yaml-examples/examples/helm)
-
